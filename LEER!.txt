@@ -1,0 +1,28 @@
+# ============================================================
+#  Consulta de Cupos Disponibles - UASD
+# ============================================================
+# REQUISITOS
+#   - Python 3.9 o superior
+#   - Librerías:  pip install requests pandas openpyxl
+#
+# CÓMO USAR
+#   1. Abre una terminal en la carpeta del programa y ejecuta:
+#        python CuposDisponiblesUASD.py
+#
+#   2. En el menú, elige la OPCIÓN 2 (la más recomendada):
+#      cargar las claves desde un archivo .txt, con una clave
+#      por línea (ej: MAT2330).
+#
+#   3. Cuando pida la ruta del archivo, cópiala y pégala TAL
+#      CUAL desde el explorador de Windows, con la ruta
+#      completa, por ejemplo:
+#        C:\Programacion\ConsultaCuposUASD\CuposUASDEjmplo.txt
+#      (evita escribirla de memoria para no cometer errores)
+#
+#   4. En el modo de búsqueda, elige "Completo" (opción 1)
+#      para asegurar que traiga TODAS las secciones de todos
+#      los campus.
+#
+#   5. El resultado se guarda como .csv y .xlsx en la misma
+#      carpeta del programa.
+# ============================================================

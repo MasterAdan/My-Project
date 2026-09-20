@@ -1,0 +1,9 @@
+﻿NRC,Clave,Asignatura,Sec,Tipo,Horario,Días,Edificios,Aula,Campus,Modalidad,Cupos,Inscritos,Disponibles,Profesor(a)
+34407,INF3290,Análisis y Diseño de Sistema,Z05,Teoria,18 a 21,JU,Edificio Jesus De La Rosa,EJR-201,Barahona,Semipresencial,45.0,23.0,22.0,Leovankis Corniell Segura
+48453,INF3290,Análisis y Diseño de Sistema,Z03,Teoria,18 a 20,VI,Lab. Informatica Higuey,IL-CRE-104,Higüey,Semipresencial,45.0,26.0,19.0,Sandino Perdomo A
+33638,INF3290,Análisis y Diseño de Sistema,Z04,Teoria,16 a 19,LU,Laboratorio De Informatica,LI-CNE-303,San Fco de Macorís,Semipresencial,45.0,26.0,19.0,Jose Ariel Pereyra Francisco
+48460,INF3290,Análisis y Diseño de Sistema,Z06,Teoria,19 a 22,MA,Local Curo Bloque A,CRA-102,San Juan,Semipresencial,45.0,5.0,40.0,Pablo Augusto De Los Santos García
+24474,INF3290,Análisis y Diseño de Sistema,Z01,Teoria,20 a 22,MI,Lab. De Informatica Santiago,CI-202,Santiago,Semipresencial,55.0,51.0,4.0,Suranis Altagracia Alfonso Mercado
+19480,INF3290,Análisis y Diseño de Sistema,05,Teoria,19 a 22,LU,Laboratorio De Informatica,LIF-107,Santo Domingo,Presencial,60.0,55.0,5.0,Amancio Lorenzo Lorenzo
+19480,INF3290,Análisis y Diseño de Sistema,05,Teoria,18 a 20,SA,Laboratorio De Informatica,LIF-107,Santo Domingo,Presencial,60.0,55.0,5.0,Amancio Lorenzo Lorenzo
+,,,,,,,,,,,,,,
